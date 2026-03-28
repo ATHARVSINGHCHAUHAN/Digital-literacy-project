@@ -24,7 +24,7 @@
 | **Name** | Atharv Singh |
 | **Registration No.** | 25MIM10198 |
 | **Branch** | Integrated M.tech in AI |
-| **Year** | First Year B.Tech (2025–2030) |
+| **Year** | First Year integrated m.tech (2025–2030) |
 | **Course Code** | CSE0001 |
 | **Course Title** | Digital Literacy |
 | **University** | VIT Bhopal University |
